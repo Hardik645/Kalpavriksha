@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\bin\Debug\net8.0\CollectionsAndList.exe
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\bin\Debug\net8.0\CollectionsAndList.deps.json
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\bin\Debug\net8.0\CollectionsAndList.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\bin\Debug\net8.0\CollectionsAndList.dll
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\bin\Debug\net8.0\CollectionsAndList.pdb
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\CollectionsAndList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\CollectionsAndList.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\CollectionsAndList.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\CollectionsAndList.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\CollectionsAndList.dll
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\refint\CollectionsAndList.dll
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\CollectionsAndList.pdb
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\CollectionsAndList.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\CollectionsAndList\obj\Debug\net8.0\ref\CollectionsAndList.dll

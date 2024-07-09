@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\bin\Debug\net8.0\Practice2.exe
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\bin\Debug\net8.0\Practice2.deps.json
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\bin\Debug\net8.0\Practice2.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\bin\Debug\net8.0\Practice2.dll
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\bin\Debug\net8.0\Practice2.pdb
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\Practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\Practice2.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\Practice2.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\Practice2.dll
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\refint\Practice2.dll
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\Practice2.pdb
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\Practice2.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\Practice2\Practice2\obj\Debug\net8.0\ref\Practice2.dll

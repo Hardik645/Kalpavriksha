@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\ArrayPractice\bin\Debug\net8.0\ArrayPractice.exe
+C:\Users\hardik.sharma\source\repos\ArrayPractice\bin\Debug\net8.0\ArrayPractice.deps.json
+C:\Users\hardik.sharma\source\repos\ArrayPractice\bin\Debug\net8.0\ArrayPractice.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\ArrayPractice\bin\Debug\net8.0\ArrayPractice.dll
+C:\Users\hardik.sharma\source\repos\ArrayPractice\bin\Debug\net8.0\ArrayPractice.pdb
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ArrayPractice.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ArrayPractice.dll
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\refint\ArrayPractice.dll
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ArrayPractice.pdb
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ArrayPractice.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\ArrayPractice\obj\Debug\net8.0\ref\ArrayPractice.dll

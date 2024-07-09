@@ -1,0 +1,7 @@
+C:\Users\hardik.sharma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\hardik.sharma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConstructorPractice.exe.config
+C:\Users\hardik.sharma\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConstructorPractice.exe
+C:\Users\hardik.sharma\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConstructorPractice.pdb
+C:\Users\hardik.sharma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConstructorPractice.exe
+C:\Users\hardik.sharma\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConstructorPractice.pdb

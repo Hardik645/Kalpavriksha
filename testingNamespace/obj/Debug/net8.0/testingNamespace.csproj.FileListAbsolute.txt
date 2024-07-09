@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\testingNamespace\bin\Debug\net8.0\testingNamespace.exe
+C:\Users\hardik.sharma\source\repos\testingNamespace\bin\Debug\net8.0\testingNamespace.deps.json
+C:\Users\hardik.sharma\source\repos\testingNamespace\bin\Debug\net8.0\testingNamespace.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\testingNamespace\bin\Debug\net8.0\testingNamespace.dll
+C:\Users\hardik.sharma\source\repos\testingNamespace\bin\Debug\net8.0\testingNamespace.pdb
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\testingNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\testingNamespace.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\testingNamespace.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\testingNamespace.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\testingNamespace.dll
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\refint\testingNamespace.dll
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\testingNamespace.pdb
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\testingNamespace.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\testingNamespace\obj\Debug\net8.0\ref\testingNamespace.dll

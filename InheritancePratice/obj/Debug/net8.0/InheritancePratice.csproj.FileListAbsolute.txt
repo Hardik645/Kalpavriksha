@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\InheritancePratice\bin\Debug\net8.0\InheritancePratice.exe
+C:\Users\hardik.sharma\source\repos\InheritancePratice\bin\Debug\net8.0\InheritancePratice.deps.json
+C:\Users\hardik.sharma\source\repos\InheritancePratice\bin\Debug\net8.0\InheritancePratice.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\InheritancePratice\bin\Debug\net8.0\InheritancePratice.dll
+C:\Users\hardik.sharma\source\repos\InheritancePratice\bin\Debug\net8.0\InheritancePratice.pdb
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\InheritancePratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\InheritancePratice.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\InheritancePratice.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\InheritancePratice.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\InheritancePratice.dll
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\refint\InheritancePratice.dll
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\InheritancePratice.pdb
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\InheritancePratice.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\InheritancePratice\obj\Debug\net8.0\ref\InheritancePratice.dll

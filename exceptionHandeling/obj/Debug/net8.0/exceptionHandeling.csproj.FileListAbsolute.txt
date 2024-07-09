@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\bin\Debug\net8.0\exceptionHandeling.exe
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\bin\Debug\net8.0\exceptionHandeling.deps.json
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\bin\Debug\net8.0\exceptionHandeling.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\bin\Debug\net8.0\exceptionHandeling.dll
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\bin\Debug\net8.0\exceptionHandeling.pdb
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\exceptionHandeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\exceptionHandeling.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\exceptionHandeling.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\exceptionHandeling.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\exceptionHandeling.dll
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\refint\exceptionHandeling.dll
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\exceptionHandeling.pdb
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\exceptionHandeling.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\exceptionHandeling\obj\Debug\net8.0\ref\exceptionHandeling.dll

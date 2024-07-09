@@ -1,0 +1,14 @@
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\bin\Debug\net8.0\abstrationAndInterface.exe
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\bin\Debug\net8.0\abstrationAndInterface.deps.json
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\bin\Debug\net8.0\abstrationAndInterface.runtimeconfig.json
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\bin\Debug\net8.0\abstrationAndInterface.dll
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\bin\Debug\net8.0\abstrationAndInterface.pdb
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\abstrationAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\abstrationAndInterface.AssemblyInfoInputs.cache
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\abstrationAndInterface.AssemblyInfo.cs
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\abstrationAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\abstrationAndInterface.dll
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\refint\abstrationAndInterface.dll
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\abstrationAndInterface.pdb
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\abstrationAndInterface.genruntimeconfig.cache
+C:\Users\hardik.sharma\source\repos\abstrationAndInterface\obj\Debug\net8.0\ref\abstrationAndInterface.dll
